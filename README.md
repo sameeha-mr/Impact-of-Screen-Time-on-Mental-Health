@@ -14,12 +14,12 @@ This project investigates the relationship between screen time and various menta
 - **Description**: This dataset examines the relationship between screen time usage and various mental health indicators, such as stress, anxiety, and sleep patterns.
 
 ## Folder Structure
-
+```bash
 Data-Analysis-Project/
 │
 ├── data/               # Raw and processed datasets
 ├── notebooks/          # Jupyter notebooks for analysis
-
+```
 ## Getting Started
 
 ### Prerequisites
