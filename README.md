@@ -6,7 +6,7 @@ This project investigates the relationship between screen time and various menta
 ## Features
 - **Dataset Exploration**: Analyze trends and patterns in the provided dataset.
 - **Data Cleaning**: Handle missing values, duplicates, and inconsistent data.
-- **Data Visualization**: Generate interactive and static visualizations to understand relationships.
+- **Data Visualization**: Generate visualizations to understand relationships.
 
 ## Dataset Information
 - **Name**: Impact of Screen Time on Mental Health
